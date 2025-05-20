@@ -3,8 +3,6 @@
   <img src="https://drive.google.com/uc?export=view&id=1Wb9pCh6cjtt2v9GO8HBFeja6_uJtHW9m" width="500">
 </div>
 
-https://drive.google.com/file/d/1kdtnyRey4lzfT0XN3rWQCv1GQwSRFJT5/view?usp=sharing
-https://app.powerbi.com/view?r=eyJrIjoiZDlhYTliODgtMzY0NS00ZDUzLWI3YzQtMzRlZmM0MGU2YTY1IiwidCI6ImQ4YmRlNjVhLTNkZWQtNDM0Ni05NTE4LTY3MDIwNGU2ZTE4NCIsImMiOjR9
 
 ## Sobre este Projeto 
 Os dados utilizados neste projeto são oficiais e foram obtidos no <a href='https://basedosdados.org/dataset/544c9d22-97b7-479a-8eca-94762840b465?table=e2d5dcc5-270e-4a8b-8d55-0227fd46c10f' target="_blank">Portal Base dos Dados</a>.
@@ -45,6 +43,11 @@ A segunda etapa do projeto consistiu na análise dos dados, com o objetivo de at
 
 #### 3ª Etapa - Visualização dos Dados
 Na terceira etapa do projeto, foi desenvolvido um painel para apresentar os dados referentes às queimadas ocorridas no bioma com maior quantidade de focos. Para a elaboração dos painéis, utilizou-se a ferramenta _Tableau_.
+
+
+https://drive.google.com/file/d/1kdtnyRey4lzfT0XN3rWQCv1GQwSRFJT5/view?usp=sharing
+https://app.powerbi.com/view?r=eyJrIjoiZDlhYTliODgtMzY0NS00ZDUzLWI3YzQtMzRlZmM0MGU2YTY1IiwidCI6ImQ4YmRlNjVhLTNkZWQtNDM0Ni05NTE4LTY3MDIwNGU2ZTE4NCIsImMiOjR9
+
 
 ## Tecnologias utilizadas
 - Python
