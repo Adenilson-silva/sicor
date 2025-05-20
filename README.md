@@ -56,10 +56,10 @@ Na terceira etapa do projeto, foi desenvolvido um painel para apresentar os dado
 Nesta etapa do projeto, foi realizada inicialmente a classificação de combinações de variáveis categóricas (atividade, finalidade, categoria da empresa, modalidade e produto) com base em suas frequências relativas no conjunto de dados. Assumindo independência entre as variáveis, estimou-se a probabilidade conjunta de cada combinação, atribuindo-se um nível de priorização para recebimento de crédito (“Alto” ou “Normal”), com base no percentil 90. Em seguida, aplicou-se a técnica de _Upsampling_ para equilibrar as classes de priorização. O objetivo dessa etapa foi gerar uma base classificada e balanceada para ser utilizada nos modelos preditivos.
 
 A partir da base classificada foram aplicados 4 modelos de _Machine Learning_:
-* Nayve Bayes (_CategoricalNB_)
+* _Nayve Bayes_ (_CategoricalNB_)
 * Árvore de Decisão (_DecisionTreeClassifier_)
 * Floresta Aleatória (_RandomForestClassifier)
-* Gradient Boosting (_XGBClassifier_)
+* _Gradient Boosting_ (_XGBClassifier_)
 
 Todos os modelos apresentaram bom desempenho. No entanto, considerando as métricas de avaliação, o tempo de treinamento e a aplicação da técnica de _Upsampling_ no conjunto de dados, o modelo de Árvore de Decisão se destacou, sendo considerado o mais adequado entre os modelos avalidados.
 
