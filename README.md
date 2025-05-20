@@ -12,7 +12,7 @@ Os dados utilizados neste projeto são oficiais e foram obtidos no <a href='http
 ## Contextualização
 Este projeto é constituído de três etapas:
 
-#### 1ª Etapa - ETL dos dados
+#### <a href='https://github.com/Adenilson-silva/sicor/blob/main/A%20-%20Extract%2C%20Transform%2C%20Load%20-%20ETL.ipynb' target="_blank">1ª Etapa - ETL dos dados</a>
 Nesta etapa do projeto, foi realizado o processo de ETL a partir dos dados armazenados no _Google BigQuery_, disponibilizados pelo Portal Base dos Dados. A seguir, detalham-se as etapas do processo:
 
 - **_Extract_**: Extração dos dados diretamente da base no _Google BigQuery_.
@@ -20,7 +20,7 @@ Nesta etapa do projeto, foi realizado o processo de ETL a partir dos dados armaz
 - **_Load_**: Os dados tratados foram salvos nos formatos <a href='https://www.databricks.com/br/glossary/what-is-parquet' target="_blank"> Parquet </a> e CSV para uso em análises futuras.
 
 
-#### 2ª Etapa - Análise dos Dados 
+#### <a href='https://github.com/Adenilson-silva/sicor/blob/main/B%20-%20An%C3%A1lise%20dos%20Dados.ipynb' target="_blank">2ª Etapa - Análise dos Dados</a> 
 A segunda etapa do projeto consistiu na análise dos dados, com o objetivo de atender aos seguintes pontos:
 
 1 - Quantidade de queimadas por ano
@@ -41,17 +41,18 @@ A segunda etapa do projeto consistiu na análise dos dados, com o objetivo de at
 8 - Os 10 Municípios com maior quantidade de queimadas críticas
 
 
-#### 3ª Etapa - Visualização dos Dados
+#### <a href='https://app.powerbi.com/view?r=eyJrIjoiZDlhYTliODgtMzY0NS00ZDUzLWI3YzQtMzRlZmM0MGU2YTY1IiwidCI6ImQ4YmRlNjVhLTNkZWQtNDM0Ni05NTE4LTY3MDIwNGU2ZTE4NCIsImMiOjR9' target="_blank">3ª Etapa - Visualização dos Dados</a>
 Na terceira etapa do projeto, foi desenvolvido um painel para apresentar os dados referentes às queimadas ocorridas no bioma com maior quantidade de focos. Para a elaboração dos painéis, utilizou-se a ferramenta _Tableau_.
 
+#### <a href='https://github.com/Adenilson-silva/sicor/blob/main/D%20-%20Cria%C3%A7%C3%A3o%20de%20Modelos%20de%20Machine%20Learning.ipynb' target="_blank">4ª Etapa - Criação de Modelos de _Machine Learning_</a> 
 
-https://drive.google.com/file/d/1kdtnyRey4lzfT0XN3rWQCv1GQwSRFJT5/view?usp=sharing
-https://app.powerbi.com/view?r=eyJrIjoiZDlhYTliODgtMzY0NS00ZDUzLWI3YzQtMzRlZmM0MGU2YTY1IiwidCI6ImQ4YmRlNjVhLTNkZWQtNDM0Ni05NTE4LTY3MDIwNGU2ZTE4NCIsImMiOjR9
+
+Arquivo com os dados brutos e tratados: <a href='https://drive.google.com/file/d/1kdtnyRey4lzfT0XN3rWQCv1GQwSRFJT5/view?usp=sharing' target="_blank">Aqui</a>.
 
 
 ## Tecnologias utilizadas
 - Python
-- Tableau
+- Power BI
 
 ## Quem é o Autor?
 Leia meu resumo e me envie uma mensagem: https://www.linkedin.com/in/adenilson-silva/
