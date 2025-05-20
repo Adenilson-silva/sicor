@@ -1,5 +1,4 @@
 # Ciência de Dados
-## Análise Descritiva e Preditiva dos dados relativos ao Sistema de Operações do Crédito Rural e do Proagro (Sicor) - 2013 a 2023
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1Wb9pCh6cjtt2v9GO8HBFeja6_uJtHW9m" width="500">
 </div>
