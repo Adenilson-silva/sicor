@@ -58,7 +58,7 @@ Nesta etapa do projeto, foi realizada inicialmente a classificação de combina�
 A partir da base classificada foram aplicados 4 modelos de _Machine Learning_:
 * _Nayve Bayes_ (_CategoricalNB_)
 * Árvore de Decisão (_DecisionTreeClassifier_)
-* Floresta Aleatória (_RandomForestClassifier)
+* Floresta Aleatória (_RandomForestClassifier_)
 * _Gradient Boosting_ (_XGBClassifier_)
 
 Todos os modelos apresentaram bom desempenho. No entanto, considerando as métricas de avaliação, o tempo de treinamento e a aplicação da técnica de _Upsampling_ no conjunto de dados, o modelo de Árvore de Decisão se destacou, sendo considerado o mais adequado entre os modelos avalidados.
