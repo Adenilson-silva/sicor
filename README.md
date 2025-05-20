@@ -1,6 +1,6 @@
 # Ciência de Dados
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1Wb9pCh6cjtt2v9GO8HBFeja6_uJtHW9m" width="500">
+  <img src="https://drive.google.com/uc?export=view&id=1Wb9pCh6cjtt2v9GO8HBFeja6_uJtHW9m" width="300">
 </div>
 
 
