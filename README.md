@@ -61,7 +61,7 @@ A partir da base classificada foram aplicados 4 modelos de _Machine Learning_:
 * Floresta Aleatória (_RandomForestClassifier_)
 * _Gradient Boosting_ (_XGBClassifier_)
 
-Para encontrar a melhor combinação de hiperparâmetros dos modelos de Árvore de Decisão, Floresta Aleatória e _Gradient Boosting_ foi utilizado a ferramenta  <a href='https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html' target="_blank">GridSearchCV</a> que realizada busca exaustiva, com validação cruzada (cross-validation).
+Para encontrar a melhor combinação de hiperparâmetros dos modelos de Árvore de Decisão, Floresta Aleatória e _Gradient Boosting_ foi utilizada a ferramenta  <a href='https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html' target="_blank">GridSearchCV</a> que realizada busca exaustiva, com validação cruzada (cross-validation).
 
 Todos os modelos apresentaram bom desempenho. No entanto, considerando as métricas de avaliação, o tempo de treinamento e a aplicação da técnica de _Upsampling_ no conjunto de dados, o modelo de Árvore de Decisão se destacou, sendo considerado o mais adequado entre os modelos avalidados.
 
